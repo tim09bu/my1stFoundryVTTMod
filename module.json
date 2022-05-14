@@ -1,6 +1,6 @@
 {
   "name": "my1stFoundryVTTMod",
-  "title": "My first Foundry VTT Module",
+  "title": "Buchkarten Modul",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "tim09bu",
   "manifest": "https://raw.githubusercontent.com/tim09bu/my1stFoundryVTTMod/main/module.json",
