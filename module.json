@@ -5,5 +5,5 @@
   "author": "tim09bu",
   "manifest": "https://raw.githubusercontent.com/tim09bu/my1stFoundryVTTMod/main/module.json",
   "version": "1.0.0",
-  "minimumCoreVersion": "9.268"
+  "minimumCoreVersion": "9"
 }
