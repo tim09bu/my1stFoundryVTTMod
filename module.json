@@ -8,7 +8,7 @@
   "minimumCoreVersion": "9",
   "socket": true,
   "url": "https://github.com/tim09bu/my1stFoundryVTTMod",
-  "download": "https://github.com/tim09bu/my1stFoundryVTTMod/releases/download/v1.12.8/drag-ruler-1.12.8.zip",
+  "download": "https://github.com/tim09bu/my1stFoundryVTTMod/archive/refs/heads/main.zip",
   "readme": "https://github.com/tim09bu/my1stFoundryVTTMod/blob/master/README.md",
   "changelog": "https://github.com/tim09bu/my1stFoundryVTTMod/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/tim09bu/my1stFoundryVTTMod/issues",
