@@ -3,7 +3,7 @@
   "title": "My first Foundry VTT Module",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "tim09bu",
-  "manifest": "https://github.com/tim09bu/my1stFoundryVTTMod/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/tim09bu/my1stFoundryVTTMod/main/module.json",
   "version": "1.0.0",
   "minimumCoreVersion": "9.268"
 }
