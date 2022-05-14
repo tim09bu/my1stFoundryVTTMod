@@ -4,7 +4,7 @@
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "tim09bu",
   "manifest": "https://raw.githubusercontent.com/tim09bu/my1stFoundryVTTMod/main/module.json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimumCoreVersion": "9",
   "socket": true,
   "url": "https://github.com/tim09bu/my1stFoundryVTTMod",
@@ -12,5 +12,8 @@
   "readme": "https://github.com/tim09bu/my1stFoundryVTTMod/blob/master/README.md",
   "changelog": "https://github.com/tim09bu/my1stFoundryVTTMod/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/tim09bu/my1stFoundryVTTMod/issues",
-  "allowBugReporter": true
+  "allowBugReporter": true,
+  "scripts": [
+  "scripts/hallowelt.js"
+]
 }
