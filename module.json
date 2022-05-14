@@ -1,6 +1,6 @@
 {
   "name": "my1stFoundryVTTMod",
-  "title": "Buchkarten Modul",
+  "title": "Buchkarten Module",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "tim09bu",
   "manifest": "https://raw.githubusercontent.com/tim09bu/my1stFoundryVTTMod/main/module.json",
@@ -14,24 +14,6 @@
   "bugs": "https://github.com/tim09bu/my1stFoundryVTTMod/issues",
   "allowBugReporter": true,
   "scripts": [
-    "scripts/hallowelt.js"
-  ],
-  "esmodules": [
-    
-  ],
-  "styles": [
-    
-  ],
-  "packs": [
-    {
-      "name": "items",
-      "label": "Book Items",
-      "path": "packs/items.db",
-      "type": "Item"
-    }
-  ],
-  "languages": [
-    
-  ],
-
+  "scripts/hallowelt.js"
+]
 }
