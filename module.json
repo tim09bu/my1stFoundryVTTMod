@@ -14,6 +14,24 @@
   "bugs": "https://github.com/tim09bu/my1stFoundryVTTMod/issues",
   "allowBugReporter": true,
   "scripts": [
-  "scripts/hallowelt.js"
-]
+    "scripts/hallowelt.js"
+  ],
+  "esmodules": [
+    
+  ],
+  "styles": [
+    
+  ],
+  "packs": [
+    {
+      "name": "items",
+      "label": "Book Items",
+      "path": "packs/items.db",
+      "type": "Item"
+    }
+  ],
+  "languages": [
+    
+  ],
+
 }
