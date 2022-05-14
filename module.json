@@ -1,0 +1,8 @@
+{
+  "name": "my1stFoundryVTTMod",
+  "title": "My first Foundry VTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "author": "tim09bu",
+  "version": "1.0.0",
+  "minimumCoreVersion": "9"
+}
